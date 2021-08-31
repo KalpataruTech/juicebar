@@ -1,1 +1,1 @@
-banana-milkshake.txt :2: 60
+banana-milkshake.txt :q-2:p-60
