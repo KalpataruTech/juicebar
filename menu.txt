@@ -6,3 +6,4 @@ banana-milkshake                30
 Drink        		       price
 ------------------------------------
 appy-fiz      			30
+sprit                           30
