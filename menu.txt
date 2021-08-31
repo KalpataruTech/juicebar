@@ -1,1 +1,8 @@
-banana-milkshake
+Shake                          price
+------------------------------------
+apple-milkshake 		35
+banana-milkshake                30
+
+Drink        		       price
+------------------------------------
+appy-fiz      			30
